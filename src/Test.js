@@ -1,5 +1,5 @@
 import React from 'react'
-import { ThemeContext, ThemeProvider, ActionTypes } from './Theme'
+import { ThemeContext, ActionTypes } from './Theme'
 import { TimeContext } from './Time'
 import { subscribe } from 'react-contextual'
 
