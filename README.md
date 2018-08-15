@@ -1,4 +1,4 @@
-* for react structure
+* for react native structure 
 - src
   - /assets
   - /components
